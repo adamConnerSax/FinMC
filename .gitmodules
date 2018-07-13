@@ -1,0 +1,6 @@
+[submodule "FinancialMC"]
+	path = FinancialMC
+	url = ssh://git@github.com/adamConnerSax/FinancialMC
+[submodule "TaxEDSL"]
+	path = TaxEDSL
+	url = ssh://git@github.com/adamConnerSax/TaxEDSL
