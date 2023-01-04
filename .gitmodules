@@ -1,8 +1,8 @@
 [submodule "FinancialMC"]
 	path = FinancialMC
-	url = https://github.com/adamConnerSax/FinancialMC
+	url = ../FinancialMC.git
 	branch = master
 [submodule "TaxEDSL"]
 	path = TaxEDSL
-	url = https://github.com/adamConnerSax/TaxEDSL
+	url = ../TaxEDSL.git
 	branch = master

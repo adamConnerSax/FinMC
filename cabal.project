@@ -1,2 +1,5 @@
 packages: ./FinancialMC ./TaxEDSL
 jobs: 4
+
+-- ghc 9.4.4
+allow-newer: base, template-haskell
